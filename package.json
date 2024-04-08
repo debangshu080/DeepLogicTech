@@ -1,0 +1,11 @@
+{
+  "name": "deeplogictech_Assingment",
+  "version": "1.0",
+  "description": "Assignment for DeepLogicTech",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Debangshu Mandal",
+  "license": "ISC"
+}
